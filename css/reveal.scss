@@ -1409,3 +1409,17 @@ html:-moz-full-screen-ancestor {
 .zoomed .reveal .roll span:after {
 	visibility: hidden;
 }
+
+.maslow {
+	display: block;
+	position: relative;
+	width: 856px;
+	height: 539px;
+	margin: 0px auto !important;
+}
+
+.maslow img {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
